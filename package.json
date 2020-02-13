@@ -1,0 +1,19 @@
+{
+  "name": "create_app_publish",
+  "version": "0.0.1",
+  "description": "testing create app publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalagarraj/create_app_publish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalagarraj/create_app_publish/issues"
+  },
+  "homepage": "https://github.com/kalagarraj/create_app_publish#readme"
+}
